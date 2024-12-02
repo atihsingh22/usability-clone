@@ -249,6 +249,19 @@ footer{
   align-items: start;
   justify-content: space-between;
 }
+.subfooter{
+  background-color: #b9cde4;
+}
+.subfooter a{
+  color: #183b54;
+}
+.subfooter-container{
+  align-items: center;
+  justify-content: center;
+  gap:30px;
+  padding: var(--padding-inline-section);
+  
+}
 
 .spacer {
   min-height: 50vh;
