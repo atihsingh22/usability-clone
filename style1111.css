@@ -124,7 +124,7 @@ header {
 }
 
 .header-right img {
-  width: 600px;
+  width: 100%;
 }
 
 .company-header {
@@ -133,7 +133,7 @@ header {
   margin-bottom: 20px;
 }
 .logos {
-  justify-content: space-between;
+  justify-content: space-evenly;
   flex-wrap: wrap;
 }
 .logos img {
